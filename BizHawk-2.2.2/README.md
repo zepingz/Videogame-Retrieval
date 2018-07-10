@@ -1,3 +1,3 @@
 # Data folder
 
-Here should contain BizHawk.
+This folder should contain BizHawk.
