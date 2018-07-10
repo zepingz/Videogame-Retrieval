@@ -1,3 +1,3 @@
 # Data folder
 
-Here should contain roms.
+This folder should contain roms.
